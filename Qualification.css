@@ -1,0 +1,89 @@
+body{
+    background-image: url('bk1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.menu a  {
+    font-size: 25px;
+    padding: 10px 20px;
+    color:black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.menu a:hover{
+    background: red;
+    transition: 0.2;
+}
+#oo{
+    color: red;
+    font-size: 60px;
+    text-align: center;
+} 
+#op{
+    margin-left: 6cm;
+    font-size: 40px;
+    color: navy;
+    font-weight: bold;
+}
+#ol{
+    margin-left: 6cm;
+    font-size: 30px;
+    font-weight: bold;
+    color: chocolate;
+}
+#ui{
+    margin-left: 6cm;
+    font-size: 30px;
+    font-weight: bold;
+    color: chocolate;
+}
+.ty{
+    margin-left: 5cm;
+}
+#rt{
+    margin-left: 4cm;
+    font-size: 25px;
+    font-weight: bold;
+}
+#er{
+    margin-left: 4cm;
+    font-size: 25px;
+    font-weight: bold;
+}
+#oy{
+    margin-left: 7cm;
+    font-size: 40px;
+    color: navy;
+    font-weight: bold;
+}
+#or{
+    margin-left: 7cm;
+    font-size: 30px;
+    font-weight: bold;
+    color: lightseagreen;
+}
+.yy{
+    margin-left: 5cm;
+}
+#pt{
+    margin-left: 4cm;
+    font-size: 25px;
+    font-weight: bold;
+}
+#gy{
+    margin-left:7cm ;
+    font-size: 25px;
+    font-weight: bold;
+}
+#bv{
+    margin-left:6cm ;
+    font-size: 25px;
+    font-weight: bold;
+}
+#vb{
+    margin-left:6cm ;
+    font-size: 25px;
+    font-weight: bold;
+}

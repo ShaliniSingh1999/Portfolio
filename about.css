@@ -1,0 +1,64 @@
+body{
+    background-image: url('bg1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.sec-info{
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+.menu a  {
+    font-size: 25px;
+    padding: 10px 20px;
+    color:blanchedalmond;
+    font-weight: bold;
+    text-decoration: none;
+}
+.menu a:hover{
+    background: red;
+    transition: 0.2;
+}
+#h{
+    color: red;
+    font-size: 80px;
+    font-weight: bolder;
+}
+#ee{
+    font-size:  30px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+#st{
+    font-size: 30px;
+    font-weight: bold;
+    color: green;
+    margin-left: 100px;
+    margin-top: 140px;
+}
+.jj{
+    font-size: 20px;    
+    text-align: justify;
+    flex-basis: 50%;
+}
+#q{
+    color:crimson;
+}
+#u{
+    color: blue;
+}
+#tt{
+    margin-left: 100px;
+    font-style: italic;
+    font-weight: 900;
+    color: darkgrey;
+}
+.aa{
+    clip-path: ellipse(42% 40% at 50% 55%);
+    margin-right: 180px;
+    margin-top: 0px;
+
+}

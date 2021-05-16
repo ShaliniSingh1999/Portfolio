@@ -1,0 +1,81 @@
+body{
+    background-image: url('b1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.logo{
+    color:blanchedalmond;
+    font-size: 50px;
+    margin-left: 400px;
+    margin-top: 5px;
+    letter-spacing: 5px;
+    
+}
+.menu a  {
+    font-size: 25px;
+    padding: 10px 20px;
+    color:whitesmoke;
+    font-weight: bold;
+    text-decoration: none;
+}
+.menu{
+    
+    margin: 40px;
+}
+nav{
+    width: 100%;
+    height: 50px;
+    
+    
+}
+.logo span{
+    color: red;
+}
+.menu a:hover{
+    background: red;
+    transition: 0.2;
+}
+.b{
+    clip-path: ellipse(45% 50% at 55% 50%);
+    float: left;
+    margin: 40px 12px 3px 12px;
+    border: 5px;
+}
+#sd{
+    margin-left: 750px;
+}
+/* 
+h4{
+    font-size: 50px;
+    letter-spacing: 3px;
+    color: red;
+} */
+ /* p{
+    color: whitesmoke;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 700;
+
+} */
+#rt{
+    color: red;
+    font-size: 60px;
+    letter-spacing: 2px;
+}
+#dd{
+    font-size: 35px;
+    color:tan;
+}
+#rr{
+    color: red;
+    font-size: 60px;
+}
+#aa{
+    font-size: 35px;
+    color:tan;
+}
+
+
+
